@@ -1,4 +1,4 @@
-# EDUCATION
+### EDUCATION
 Master of Science, Major: Computer Science
 Syracuse University, NY, USA
 August 2022 - May 2024
