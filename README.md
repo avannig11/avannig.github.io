@@ -60,3 +60,29 @@ June 2018 - June 2020
   - Aggregated data from 11,504 cryptocurrency threads on Reddit.
   - Implemented Sentiment Analysis and Xgboost algorithms.
   - Forecasted Ethereum market trends, studying the impact of sentiment variables.
+ 
+- **ElecKart Budget Optimization| Tech Stack: Python, Jupyter Notebook | Dec '19**
+  • Objective: Develop a market mix model for ElecKart and recommend the optimal budget for next year.
+  • Key Achievement: Created linear, multiplicative, koyck and distributed lag models.
+  
+- **Beer Mart Recommendation System| Tech Stack: Python, Jupyter Notebook | Nov '19**
+  • Objective: To identify and recommend
+  customers with their choice of beer.
+  • Key Achievement: Created Item based and user-based models with rmse values of 2.03,1.96 respectively.
+  
+- **Digit Recognition | Tech Stack: Python, Jupyter Notebook | Jul '19**
+  • Objective: Classify the handwritten digits based on pixel values
+  • Key Achievement: Created an SVM with accuracy of 0.946
+
+- **HELP International NGO | Tech Stack: Python, Jupyter Notebook | Jun '19**
+  • Objective: To identify factors that will help the NGO understand where it can invest itsfunds
+  • Solution: Identified countries that has to be focused on
+  • Key Achievement: Deployed K-means and Hierarchical Clustering to identify the countries
+
+- **Prediction of Car Prices | Tech Stack: Python, Jupyter Notebook | Apr '19**
+  • Objective: Model the price of cars
+  • Key Achievement: Created a linear model with an R2_ score of 0.88
+  
+- **Predictive Analytics using R and AWS| Tech Stack: R, AWS | Jan '18**
+  • Objective: To predict the country that has the highest crime rate
+  • Key Achievement: Predicted the crime rate for the country that has highest crime rate via Linear Regression
